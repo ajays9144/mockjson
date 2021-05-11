@@ -151,66 +151,6 @@
       "video": false,
       "vote_average": 8.6,
       "vote_count": 8499
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
-      "genre_ids": [
-        10749,
-        16,
-        18
-      ],
-      "id": 372058,
-      "original_language": "ja",
-      "original_title": "君の名は。",
-      "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-      "popularity": 80.926,
-      "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
-      "release_date": "2016-08-26",
-      "title": "Your Name.",
-      "video": false,
-      "vote_average": 8.6,
-      "vote_count": 7425
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14
-      ],
-      "id": 129,
-      "original_language": "ja",
-      "original_title": "千と千尋の神隠し",
-      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-      "popularity": 59.427,
-      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-      "release_date": "2001-07-20",
-      "title": "Spirited Away",
-      "video": false,
-      "vote_average": 8.5,
-      "vote_count": 11312
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
-      "genre_ids": [
-        35,
-        53,
-        18
-      ],
-      "id": 496243,
-      "original_language": "ko",
-      "original_title": "기생충",
-      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-      "popularity": 124.023,
-      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-      "release_date": "2019-05-30",
-      "title": "Parasite",
-      "video": false,
-      "vote_average": 8.5,
-      "vote_count": 11312
     }
   ],
   "total_pages": 436,
